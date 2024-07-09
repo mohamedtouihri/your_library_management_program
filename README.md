@@ -32,8 +32,7 @@
 
 ## Project Description
 
-This project implements encryption and decryption functionalities in Python. The program allows users to encrypt and decrypt text using various algorithms.
-
+This project aims to provide an easy way for users to manage their personal book collection and create a wishlist of books they desire to acquire in the future. Users can input the names of the books they currently own and the books they wish to have, and periodically update these lists.
 
 ###
 
